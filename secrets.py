@@ -1,0 +1,2 @@
+TG_TOKEN = "1082198029:AAGtQNzXn8FiymqZz4t3c5qrfzynE0sy81o"
+CC_API_KEY = "2cad5c8429f8c3f8ad9ab2d9893affc53c86ee257a01846fcc5fda2edeb74cec"
